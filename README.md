@@ -2,7 +2,7 @@
 In this automation testing project, the primary focus is to ensure the quality and reliability of four store website stores through analysis, test case design, and execution using the TestArchitect tool.
 
 ## Pre-requisites
-Tool: TestArchitest (TestArchitest Client, Repository server, License Server)
+Tool: TestArchitect (TestArchitest Client, Repository server, License Server)
 
 Brower: Google Chrome (Version 122.0.6261.112 (Official Build) (64-bit))
 
